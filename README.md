@@ -1,5 +1,7 @@
 # Nexus
+
 https://nexus-game-dashboard.herokuapp.com/
+
 ![nexus setting](https://user-images.githubusercontent.com/89421292/156946554-baabab8d-b20d-4d43-9444-8c869ff2bbc7.PNG)
 ![nexus friends](https://user-images.githubusercontent.com/89421292/156946560-bbe643cb-7fdb-4008-bae2-2ef9a7966e41.PNG)
 
